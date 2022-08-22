@@ -1,13 +1,13 @@
 {
-  "name": "window-item",
+  "name": "@cowbell-lol/window-item",
   "author": "stagas",
-  "short": "stagas/window-item",
+  "short": "cowbell-lol/window-item",
   "description": "Window item.",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://git@github.com:stagas/window-item.git"
+    "url": "git+https://git@github.com:cowbell-lol/window-item.git"
   },
   "keywords": [],
   "types": "./dist/types/index.d.ts",
