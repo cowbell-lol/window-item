@@ -12,6 +12,7 @@ import { KnobElement } from 'x-knob'
 import { KnobsBarElement, knobsThemes } from './knobs'
 import { VisualizerAudioElement } from './visualizer-audio'
 
+export type { AudioTransportElement }
 export { PresetElement, PresetsBarElement }
 
 export const IO = {

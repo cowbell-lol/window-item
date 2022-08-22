@@ -76,6 +76,7 @@
     "utr": "^1.3.1"
   },
   "dependencies": {
+    "audio-transport": "1.0.1",
     "everyday-utils": "^1.2.0",
     "plenty-themes": "^1.1.1",
     "presets-bar": "^1.0.0",
